@@ -290,6 +290,6 @@ bot.on('message', message => {
     }
 })
 
-bot.login('ODAyMjIzMTgzNzk2NjMzNjAw.YAsGjw.IgsPMpq0GDhuSllkuyfbf92jskc');
+bot.login('c');
 
 //https://discord.com/oauth2/authorize?client_id=802223183796633600&scope=bot&permissions=36826176
